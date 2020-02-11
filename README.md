@@ -1,3 +1,3 @@
 # hello-world
-test
-깃깃
+
+https://devblogs.microsoft.com/dotnet/introducing-net-5/
